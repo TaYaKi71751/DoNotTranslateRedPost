@@ -1,7 +1,6 @@
-#	Twitter SVG Logo from [Twitter Brand Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit)
-- in `logo.js` with `const SVGText`
+# Do not translate Reddit
 
 
-[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/change-twitter-logo-back)
+[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/do-not-translate-reddit/)
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/change-twitter-logo-back/gkeboiapkijhaagignnlkfeolpcidbkk)
+[Chrome Web Store]()
