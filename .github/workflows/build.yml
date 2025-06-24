@@ -30,7 +30,9 @@ jobs:
           CODE_SIGN_ENTITLEMENTS="" \
           clean build
         cd "build/ios/Build/Products/Release-iphonesimulator/"
-        zip -r ../../../../../build/ios.zip "Do not translate reddit.app"
+        mkdir -p Payload
+        mv "Do not translate reddit.app" Payload/Runner.app
+        zip -r ../../../../../build/ios.zip "Payload/Runner.app"
         cd ../../../../../
         mv build/ios.zip build/ios.ipa
     - run: |
