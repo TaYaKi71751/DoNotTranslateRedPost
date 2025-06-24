@@ -57,6 +57,10 @@ jobs:
           let message = JSON.parse(fs.readFileSync('./Shared (Extension)/Resources/_locales/en/messages.json'));
           json.name = message['extension_name'].message;
           json.description = message['extension_description'].message;
+          json.default_locale = undefined;
+          json.background = undefined;
+          json.action = undefined;
+          json.permissions = undefined;
           json.manifest_version = 2;
           fs.writeFileSync('./Shared (Extension)/Resources/manifest-v2.json',JSON.stringify(json));
           json.manifest_version = 3;
