@@ -29,9 +29,9 @@ jobs:
           CODE_SIGNING_REQUIRED=NO \
           CODE_SIGN_ENTITLEMENTS="" \
           clean build
-        cd "build/ios/Build/Products/Release-iphonesimulator/Do not translate reddit.app"
-        zip -r ../../../../../../build/ios.zip *
-        cd ../../../../../../
+        cd "build/ios/Build/Products/Release-iphonesimulator/"
+        zip -r ../../../../../build/ios.zip "Do not translate reddit.app"
+        cd ../../../../../
         mv build/ios.zip build/ios.ipa
     - run: |
         xcodebuild -project "${XCODE_PROJECT}" \
