@@ -21,7 +21,8 @@
 
     "content_scripts": [{
         "js": [ "content.js" ],
-        "matches": [ "*://reddit.com/*", "*://www.reddit.com/*" ]
+        "matches": [ "*://reddit.com/*", "*://www.reddit.com/*" ],
+        "run_at": "document_start"
     }],
 
     "action": {
