@@ -17,6 +17,9 @@ jobs:
     - run: |
         mkdir -p build
     - run: |
+        xcode-select --install || echo "Xcode command line tools already installed"
+        xcode-select --switch /Applications/Xcode.app/Contents/Developer || echo "Xcode command line tools already selected"
+    - run: |
         xcodebuild -project "${XCODE_PROJECT}" \
           -scheme "${XCODE_IOS_SCHEME}" \
           -configuration Release \
