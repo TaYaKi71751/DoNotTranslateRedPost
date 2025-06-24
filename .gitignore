@@ -1,3 +1,4 @@
 build/
 ios_build/
 macos_build/
+.DS_Store
