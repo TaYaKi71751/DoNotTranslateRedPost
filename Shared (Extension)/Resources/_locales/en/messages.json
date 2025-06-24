@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Do not translate reddit",
+        "description": "Do not translate reddit"
+    },
+    "extension_description": {
+        "message": "This extension removes translate info in url at reddit page ( example, https://www.reddit.com/r/NintendoSwitch/comments/nb6kxl/is_any_usb_microphone_compatible_with_the_switch/?tl=ko is korean translated page, but this extension fixes url to https://www.reddit.com/r/NintendoSwitch/comments/nb6kxl/is_any_usb_microphone_compatible_with_the_switch/ )",
+        "description": "This extension removes translate info in url at reddit page ( example, https://www.reddit.com/r/NintendoSwitch/comments/nb6kxl/is_any_usb_microphone_compatible_with_the_switch/?tl=ko is korean translated page, but this extension fixes url to https://www.reddit.com/r/NintendoSwitch/comments/nb6kxl/is_any_usb_microphone_compatible_with_the_switch/ )"
+    }
+}

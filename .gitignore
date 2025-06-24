@@ -1,1 +1,3 @@
-web-ext-artifacts/
+build/
+ios_build/
+macos_build/
