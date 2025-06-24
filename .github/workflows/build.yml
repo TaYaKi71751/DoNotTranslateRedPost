@@ -21,7 +21,7 @@ jobs:
           -scheme "${XCODE_IOS_SCHEME}" \
           -configuration Release \
           -destination 'platform=iOS Simulator,name=iPhone 16' \
-          -derivativeDir 'build/ios' \
+          -derivedDataPath 'build/ios' \
           CODE_SIGN_IDENTITY="" \
           CODE_SIGNING_REQUIRED=NO \
           CODE_SIGN_ENTITLEMENTS="" \
@@ -35,7 +35,7 @@ jobs:
           -scheme "${XCODE_MAC_SCHEME}" \
           -configuration Release \
           -destination 'platform=macOS' \
-          -derivativeDir 'build/mac' \
+          -derivedDataPath 'build/mac' \
           CODE_SIGN_IDENTITY="" \
           CODE_SIGNING_REQUIRED=NO \
           CODE_SIGN_ENTITLEMENTS="" \
