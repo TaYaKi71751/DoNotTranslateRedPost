@@ -30,7 +30,7 @@ jobs:
           CODE_SIGN_ENTITLEMENTS="" \
           clean build
         cd "build/ios/Build/Products/Release-iphonesimulator/Do not translate reddit.app"
-        zip -r "../../../../../../build/ios.zip" *
+        zip -r ../../../../../../build/ios.zip *
         cd ../../../../../../
         mv build/ios.zip build/ios.ipa
     - run: |
@@ -44,8 +44,8 @@ jobs:
           CODE_SIGN_ENTITLEMENTS="" \
           clean build
         cd "build/mac/Build/Products/Release/"
-        zip -r "../../../../../../build/mac.zip" "Do not translate reddit.app"
-        cd ../../../../../../
+        zip -r ../../../../../build/mac.zip "Do not translate reddit.app"
+        cd ../../../../../
     # Update manifest
     - run: |
         cp "./Shared (Extension)/Resources/manifest.json" "./Shared (Extension)/Resources/manifest-v3.json"
