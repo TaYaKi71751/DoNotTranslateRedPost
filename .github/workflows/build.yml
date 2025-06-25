@@ -2,9 +2,9 @@ on:
   push:
   workflow_dispatch:
 env:
-  XCODE_MAC_SCHEME: "Do not translate reddit (macOS)"
-  XCODE_IOS_SCHEME: "Do not translate reddit (iOS)"
-  XCODE_PROJECT: "Do not translate reddit.xcodeproj"
+  XCODE_MAC_SCHEME: "DoNotTranslateRedPost (macOS)"
+  XCODE_IOS_SCHEME: "DoNotTranslateRedPost (iOS)"
+  XCODE_PROJECT: "DoNotTranslateRedPost.xcodeproj"
 
 jobs:
   build:

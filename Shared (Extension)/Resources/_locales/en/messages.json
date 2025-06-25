@@ -1,10 +1,10 @@
 {
     "extension_name": {
-        "message": "Do not translate reddit",
-        "description": "Do not translate reddit"
+        "message": "DoNotTranslateRedPost",
+        "description": "DoNotTranslateRedPost"
     },
     "extension_description": {
-        "message": "This extension removes translate info in url at reddit page",
-        "description": "This extension removes translate info in url at reddit page"
+        "message": "This extension untranslates posts",
+        "description": "This extension untranslates posts"
     }
 }

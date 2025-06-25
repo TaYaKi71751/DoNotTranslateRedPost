@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Shared (App)
 //
-//  Created by tayaki71751 on 2025/06/24.
+//  Created by tayaki71751 on 2025/06/25.
 //
 
 import WebKit
@@ -16,7 +16,7 @@ import SafariServices
 typealias PlatformViewController = NSViewController
 #endif
 
-let extensionBundleIdentifier = "io.github.TaYaKi71751.Do-not-translate-reddit.Extension"
+let extensionBundleIdentifier = "io.github.TaYaKi71751.DoNotTranslateRedPost.Extension"
 
 class ViewController: PlatformViewController, WKNavigationDelegate, WKScriptMessageHandler {
 

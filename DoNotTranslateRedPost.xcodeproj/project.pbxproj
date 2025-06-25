@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2FBCCE922E0A6D6E00DF0431 /* Do not translate reddit Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2FBCCE912E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		2FBCCE9C2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2FBCCE9B2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		2F50F9B42E0B7D100002926F /* DoNotTranslateRedPost Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2F50F9B32E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		2F50F9BE2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2F50F9BD2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2FBCCE932E0A6D6E00DF0431 /* PBXContainerItemProxy */ = {
+		2F50F9B52E0B7D100002926F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2FBCCE572E0A6D6C00DF0431 /* Project object */;
+			containerPortal = 2F50F9792E0B7D0B0002926F /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2FBCCE902E0A6D6E00DF0431;
-			remoteInfo = "Do not translate reddit Extension (iOS)";
+			remoteGlobalIDString = 2F50F9B22E0B7D100002926F;
+			remoteInfo = "DoNotTranslateRedPost Extension (iOS)";
 		};
-		2FBCCE9D2E0A6D6E00DF0431 /* PBXContainerItemProxy */ = {
+		2F50F9BF2E0B7D100002926F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2FBCCE572E0A6D6C00DF0431 /* Project object */;
+			containerPortal = 2F50F9792E0B7D0B0002926F /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2FBCCE9A2E0A6D6E00DF0431;
-			remoteInfo = "Do not translate reddit Extension (macOS)";
+			remoteGlobalIDString = 2F50F9BC2E0B7D100002926F;
+			remoteInfo = "DoNotTranslateRedPost Extension (macOS)";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		2FBCCEC52E0A6D6E00DF0431 /* Embed Foundation Extensions */ = {
+		2F50F9E72E0B7D100002926F /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				2FBCCE922E0A6D6E00DF0431 /* Do not translate reddit Extension.appex in Embed Foundation Extensions */,
+				2F50F9B42E0B7D100002926F /* DoNotTranslateRedPost Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCECF2E0A6D6E00DF0431 /* Embed Foundation Extensions */ = {
+		2F50F9F12E0B7D100002926F /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				2FBCCE9C2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex in Embed Foundation Extensions */,
+				2F50F9BE2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -54,14 +54,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2FBCCE732E0A6D6E00DF0431 /* Do not translate reddit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Do not translate reddit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2FBCCE852E0A6D6E00DF0431 /* Do not translate reddit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Do not translate reddit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2FBCCE912E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Do not translate reddit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2FBCCE9B2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Do not translate reddit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F50F9952E0B7D100002926F /* DoNotTranslateRedPost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoNotTranslateRedPost.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F50F9A72E0B7D100002926F /* DoNotTranslateRedPost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoNotTranslateRedPost.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F50F9B32E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DoNotTranslateRedPost Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F50F9BD2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DoNotTranslateRedPost Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		2FBCCEC02E0A6D6E00DF0431 /* Exceptions for "Shared (App)" folder in "Do not translate reddit (iOS)" target */ = {
+		2F50F9E22E0B7D100002926F /* Exceptions for "Shared (App)" folder in "DoNotTranslateRedPost (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -71,23 +71,23 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = 2FBCCE722E0A6D6E00DF0431 /* Do not translate reddit (iOS) */;
+			target = 2F50F9942E0B7D100002926F /* DoNotTranslateRedPost (iOS) */;
 		};
-		2FBCCEC42E0A6D6E00DF0431 /* Exceptions for "iOS (Extension)" folder in "Do not translate reddit Extension (iOS)" target */ = {
+		2F50F9E62E0B7D100002926F /* Exceptions for "iOS (Extension)" folder in "DoNotTranslateRedPost Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 2FBCCE902E0A6D6E00DF0431 /* Do not translate reddit Extension (iOS) */;
+			target = 2F50F9B22E0B7D100002926F /* DoNotTranslateRedPost Extension (iOS) */;
 		};
-		2FBCCEC92E0A6D6E00DF0431 /* Exceptions for "iOS (App)" folder in "Do not translate reddit (iOS)" target */ = {
+		2F50F9EB2E0B7D100002926F /* Exceptions for "iOS (App)" folder in "DoNotTranslateRedPost (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 2FBCCE722E0A6D6E00DF0431 /* Do not translate reddit (iOS) */;
+			target = 2F50F9942E0B7D100002926F /* DoNotTranslateRedPost (iOS) */;
 		};
-		2FBCCECA2E0A6D6E00DF0431 /* Exceptions for "Shared (App)" folder in "Do not translate reddit (macOS)" target */ = {
+		2F50F9EC2E0B7D100002926F /* Exceptions for "Shared (App)" folder in "DoNotTranslateRedPost (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -97,16 +97,16 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = 2FBCCE842E0A6D6E00DF0431 /* Do not translate reddit (macOS) */;
+			target = 2F50F9A62E0B7D100002926F /* DoNotTranslateRedPost (macOS) */;
 		};
-		2FBCCECE2E0A6D6E00DF0431 /* Exceptions for "macOS (Extension)" folder in "Do not translate reddit Extension (macOS)" target */ = {
+		2F50F9F02E0B7D100002926F /* Exceptions for "macOS (Extension)" folder in "DoNotTranslateRedPost Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 2FBCCE9A2E0A6D6E00DF0431 /* Do not translate reddit Extension (macOS) */;
+			target = 2F50F9BC2E0B7D100002926F /* DoNotTranslateRedPost Extension (macOS) */;
 		};
-		2FBCCED32E0A6D6E00DF0431 /* Exceptions for "Shared (Extension)" folder in "Do not translate reddit Extension (iOS)" target */ = {
+		2F50F9F52E0B7D100002926F /* Exceptions for "Shared (Extension)" folder in "DoNotTranslateRedPost Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -119,9 +119,9 @@
 				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
-			target = 2FBCCE902E0A6D6E00DF0431 /* Do not translate reddit Extension (iOS) */;
+			target = 2F50F9B22E0B7D100002926F /* DoNotTranslateRedPost Extension (iOS) */;
 		};
-		2FBCCED42E0A6D6E00DF0431 /* Exceptions for "Shared (Extension)" folder in "Do not translate reddit Extension (macOS)" target */ = {
+		2F50F9F62E0B7D100002926F /* Exceptions for "Shared (Extension)" folder in "DoNotTranslateRedPost Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -134,25 +134,25 @@
 				Resources/popup.js,
 				SafariWebExtensionHandler.swift,
 			);
-			target = 2FBCCE9A2E0A6D6E00DF0431 /* Do not translate reddit Extension (macOS) */;
+			target = 2F50F9BC2E0B7D100002926F /* DoNotTranslateRedPost Extension (macOS) */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2FBCCE5B2E0A6D6C00DF0431 /* Shared (App) */ = {
+		2F50F97D2E0B7D0B0002926F /* Shared (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2FBCCEC02E0A6D6E00DF0431 /* Exceptions for "Shared (App)" folder in "Do not translate reddit (iOS)" target */,
-				2FBCCECA2E0A6D6E00DF0431 /* Exceptions for "Shared (App)" folder in "Do not translate reddit (macOS)" target */,
+				2F50F9E22E0B7D100002926F /* Exceptions for "Shared (App)" folder in "DoNotTranslateRedPost (iOS)" target */,
+				2F50F9EC2E0B7D100002926F /* Exceptions for "Shared (App)" folder in "DoNotTranslateRedPost (macOS)" target */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
 		};
-		2FBCCE642E0A6D6E00DF0431 /* Shared (Extension) */ = {
+		2F50F9862E0B7D0F0002926F /* Shared (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2FBCCED32E0A6D6E00DF0431 /* Exceptions for "Shared (Extension)" folder in "Do not translate reddit Extension (iOS)" target */,
-				2FBCCED42E0A6D6E00DF0431 /* Exceptions for "Shared (Extension)" folder in "Do not translate reddit Extension (macOS)" target */,
+				2F50F9F52E0B7D100002926F /* Exceptions for "Shared (Extension)" folder in "DoNotTranslateRedPost Extension (iOS)" target */,
+				2F50F9F62E0B7D100002926F /* Exceptions for "Shared (Extension)" folder in "DoNotTranslateRedPost Extension (macOS)" target */,
 			);
 			explicitFolders = (
 				Resources/_locales,
@@ -161,31 +161,31 @@
 			path = "Shared (Extension)";
 			sourceTree = "<group>";
 		};
-		2FBCCE752E0A6D6E00DF0431 /* iOS (App) */ = {
+		2F50F9972E0B7D100002926F /* iOS (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2FBCCEC92E0A6D6E00DF0431 /* Exceptions for "iOS (App)" folder in "Do not translate reddit (iOS)" target */,
+				2F50F9EB2E0B7D100002926F /* Exceptions for "iOS (App)" folder in "DoNotTranslateRedPost (iOS)" target */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
 		};
-		2FBCCE862E0A6D6E00DF0431 /* macOS (App) */ = {
+		2F50F9A82E0B7D100002926F /* macOS (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "macOS (App)";
 			sourceTree = "<group>";
 		};
-		2FBCCE952E0A6D6E00DF0431 /* iOS (Extension) */ = {
+		2F50F9B72E0B7D100002926F /* iOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2FBCCEC42E0A6D6E00DF0431 /* Exceptions for "iOS (Extension)" folder in "Do not translate reddit Extension (iOS)" target */,
+				2F50F9E62E0B7D100002926F /* Exceptions for "iOS (Extension)" folder in "DoNotTranslateRedPost Extension (iOS)" target */,
 			);
 			path = "iOS (Extension)";
 			sourceTree = "<group>";
 		};
-		2FBCCE9F2E0A6D6E00DF0431 /* macOS (Extension) */ = {
+		2F50F9C12E0B7D100002926F /* macOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2FBCCECE2E0A6D6E00DF0431 /* Exceptions for "macOS (Extension)" folder in "Do not translate reddit Extension (macOS)" target */,
+				2F50F9F02E0B7D100002926F /* Exceptions for "macOS (Extension)" folder in "DoNotTranslateRedPost Extension (macOS)" target */,
 			);
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
@@ -193,28 +193,28 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2FBCCE702E0A6D6E00DF0431 /* Frameworks */ = {
+		2F50F9922E0B7D100002926F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE822E0A6D6E00DF0431 /* Frameworks */ = {
+		2F50F9A42E0B7D100002926F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE8E2E0A6D6E00DF0431 /* Frameworks */ = {
+		2F50F9B02E0B7D100002926F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE982E0A6D6E00DF0431 /* Frameworks */ = {
+		2F50F9BA2E0B7D100002926F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -224,26 +224,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2FBCCE562E0A6D6C00DF0431 = {
+		2F50F9782E0B7D0B0002926F = {
 			isa = PBXGroup;
 			children = (
-				2FBCCE5B2E0A6D6C00DF0431 /* Shared (App) */,
-				2FBCCE642E0A6D6E00DF0431 /* Shared (Extension) */,
-				2FBCCE752E0A6D6E00DF0431 /* iOS (App) */,
-				2FBCCE862E0A6D6E00DF0431 /* macOS (App) */,
-				2FBCCE952E0A6D6E00DF0431 /* iOS (Extension) */,
-				2FBCCE9F2E0A6D6E00DF0431 /* macOS (Extension) */,
-				2FBCCE742E0A6D6E00DF0431 /* Products */,
+				2F50F97D2E0B7D0B0002926F /* Shared (App) */,
+				2F50F9862E0B7D0F0002926F /* Shared (Extension) */,
+				2F50F9972E0B7D100002926F /* iOS (App) */,
+				2F50F9A82E0B7D100002926F /* macOS (App) */,
+				2F50F9B72E0B7D100002926F /* iOS (Extension) */,
+				2F50F9C12E0B7D100002926F /* macOS (Extension) */,
+				2F50F9962E0B7D100002926F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2FBCCE742E0A6D6E00DF0431 /* Products */ = {
+		2F50F9962E0B7D100002926F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2FBCCE732E0A6D6E00DF0431 /* Do not translate reddit.app */,
-				2FBCCE852E0A6D6E00DF0431 /* Do not translate reddit.app */,
-				2FBCCE912E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */,
-				2FBCCE9B2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */,
+				2F50F9952E0B7D100002926F /* DoNotTranslateRedPost.app */,
+				2F50F9A72E0B7D100002926F /* DoNotTranslateRedPost.app */,
+				2F50F9B32E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */,
+				2F50F9BD2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -251,167 +251,167 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2FBCCE722E0A6D6E00DF0431 /* Do not translate reddit (iOS) */ = {
+		2F50F9942E0B7D100002926F /* DoNotTranslateRedPost (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FBCCEC62E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit (iOS)" */;
+			buildConfigurationList = 2F50F9E82E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost (iOS)" */;
 			buildPhases = (
-				2FBCCE6F2E0A6D6E00DF0431 /* Sources */,
-				2FBCCE702E0A6D6E00DF0431 /* Frameworks */,
-				2FBCCE712E0A6D6E00DF0431 /* Resources */,
-				2FBCCEC52E0A6D6E00DF0431 /* Embed Foundation Extensions */,
+				2F50F9912E0B7D100002926F /* Sources */,
+				2F50F9922E0B7D100002926F /* Frameworks */,
+				2F50F9932E0B7D100002926F /* Resources */,
+				2F50F9E72E0B7D100002926F /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2FBCCE942E0A6D6E00DF0431 /* PBXTargetDependency */,
+				2F50F9B62E0B7D100002926F /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2FBCCE752E0A6D6E00DF0431 /* iOS (App) */,
+				2F50F9972E0B7D100002926F /* iOS (App) */,
 			);
-			name = "Do not translate reddit (iOS)";
+			name = "DoNotTranslateRedPost (iOS)";
 			packageProductDependencies = (
 			);
-			productName = "Do not translate reddit (iOS)";
-			productReference = 2FBCCE732E0A6D6E00DF0431 /* Do not translate reddit.app */;
+			productName = "DoNotTranslateRedPost (iOS)";
+			productReference = 2F50F9952E0B7D100002926F /* DoNotTranslateRedPost.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2FBCCE842E0A6D6E00DF0431 /* Do not translate reddit (macOS) */ = {
+		2F50F9A62E0B7D100002926F /* DoNotTranslateRedPost (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FBCCED02E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit (macOS)" */;
+			buildConfigurationList = 2F50F9F22E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost (macOS)" */;
 			buildPhases = (
-				2FBCCE812E0A6D6E00DF0431 /* Sources */,
-				2FBCCE822E0A6D6E00DF0431 /* Frameworks */,
-				2FBCCE832E0A6D6E00DF0431 /* Resources */,
-				2FBCCECF2E0A6D6E00DF0431 /* Embed Foundation Extensions */,
+				2F50F9A32E0B7D100002926F /* Sources */,
+				2F50F9A42E0B7D100002926F /* Frameworks */,
+				2F50F9A52E0B7D100002926F /* Resources */,
+				2F50F9F12E0B7D100002926F /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2FBCCE9E2E0A6D6E00DF0431 /* PBXTargetDependency */,
+				2F50F9C02E0B7D100002926F /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2FBCCE862E0A6D6E00DF0431 /* macOS (App) */,
+				2F50F9A82E0B7D100002926F /* macOS (App) */,
 			);
-			name = "Do not translate reddit (macOS)";
+			name = "DoNotTranslateRedPost (macOS)";
 			packageProductDependencies = (
 			);
-			productName = "Do not translate reddit (macOS)";
-			productReference = 2FBCCE852E0A6D6E00DF0431 /* Do not translate reddit.app */;
+			productName = "DoNotTranslateRedPost (macOS)";
+			productReference = 2F50F9A72E0B7D100002926F /* DoNotTranslateRedPost.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2FBCCE902E0A6D6E00DF0431 /* Do not translate reddit Extension (iOS) */ = {
+		2F50F9B22E0B7D100002926F /* DoNotTranslateRedPost Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FBCCEC12E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit Extension (iOS)" */;
+			buildConfigurationList = 2F50F9E32E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost Extension (iOS)" */;
 			buildPhases = (
-				2FBCCE8D2E0A6D6E00DF0431 /* Sources */,
-				2FBCCE8E2E0A6D6E00DF0431 /* Frameworks */,
-				2FBCCE8F2E0A6D6E00DF0431 /* Resources */,
+				2F50F9AF2E0B7D100002926F /* Sources */,
+				2F50F9B02E0B7D100002926F /* Frameworks */,
+				2F50F9B12E0B7D100002926F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2FBCCE952E0A6D6E00DF0431 /* iOS (Extension) */,
+				2F50F9B72E0B7D100002926F /* iOS (Extension) */,
 			);
-			name = "Do not translate reddit Extension (iOS)";
+			name = "DoNotTranslateRedPost Extension (iOS)";
 			packageProductDependencies = (
 			);
-			productName = "Do not translate reddit Extension (iOS)";
-			productReference = 2FBCCE912E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */;
+			productName = "DoNotTranslateRedPost Extension (iOS)";
+			productReference = 2F50F9B32E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		2FBCCE9A2E0A6D6E00DF0431 /* Do not translate reddit Extension (macOS) */ = {
+		2F50F9BC2E0B7D100002926F /* DoNotTranslateRedPost Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FBCCECB2E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit Extension (macOS)" */;
+			buildConfigurationList = 2F50F9ED2E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost Extension (macOS)" */;
 			buildPhases = (
-				2FBCCE972E0A6D6E00DF0431 /* Sources */,
-				2FBCCE982E0A6D6E00DF0431 /* Frameworks */,
-				2FBCCE992E0A6D6E00DF0431 /* Resources */,
+				2F50F9B92E0B7D100002926F /* Sources */,
+				2F50F9BA2E0B7D100002926F /* Frameworks */,
+				2F50F9BB2E0B7D100002926F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2FBCCE9F2E0A6D6E00DF0431 /* macOS (Extension) */,
+				2F50F9C12E0B7D100002926F /* macOS (Extension) */,
 			);
-			name = "Do not translate reddit Extension (macOS)";
+			name = "DoNotTranslateRedPost Extension (macOS)";
 			packageProductDependencies = (
 			);
-			productName = "Do not translate reddit Extension (macOS)";
-			productReference = 2FBCCE9B2E0A6D6E00DF0431 /* Do not translate reddit Extension.appex */;
+			productName = "DoNotTranslateRedPost Extension (macOS)";
+			productReference = 2F50F9BD2E0B7D100002926F /* DoNotTranslateRedPost Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2FBCCE572E0A6D6C00DF0431 /* Project object */ = {
+		2F50F9792E0B7D0B0002926F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					2FBCCE722E0A6D6E00DF0431 = {
+					2F50F9942E0B7D100002926F = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					2FBCCE842E0A6D6E00DF0431 = {
+					2F50F9A62E0B7D100002926F = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					2FBCCE902E0A6D6E00DF0431 = {
+					2F50F9B22E0B7D100002926F = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					2FBCCE9A2E0A6D6E00DF0431 = {
+					2F50F9BC2E0B7D100002926F = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 2FBCCE5A2E0A6D6C00DF0431 /* Build configuration list for PBXProject "Do not translate reddit" */;
+			buildConfigurationList = 2F50F97C2E0B7D0B0002926F /* Build configuration list for PBXProject "DoNotTranslateRedPost" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2FBCCE562E0A6D6C00DF0431;
+			mainGroup = 2F50F9782E0B7D0B0002926F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2FBCCE742E0A6D6E00DF0431 /* Products */;
+			productRefGroup = 2F50F9962E0B7D100002926F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2FBCCE722E0A6D6E00DF0431 /* Do not translate reddit (iOS) */,
-				2FBCCE842E0A6D6E00DF0431 /* Do not translate reddit (macOS) */,
-				2FBCCE902E0A6D6E00DF0431 /* Do not translate reddit Extension (iOS) */,
-				2FBCCE9A2E0A6D6E00DF0431 /* Do not translate reddit Extension (macOS) */,
+				2F50F9942E0B7D100002926F /* DoNotTranslateRedPost (iOS) */,
+				2F50F9A62E0B7D100002926F /* DoNotTranslateRedPost (macOS) */,
+				2F50F9B22E0B7D100002926F /* DoNotTranslateRedPost Extension (iOS) */,
+				2F50F9BC2E0B7D100002926F /* DoNotTranslateRedPost Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2FBCCE712E0A6D6E00DF0431 /* Resources */ = {
+		2F50F9932E0B7D100002926F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE832E0A6D6E00DF0431 /* Resources */ = {
+		2F50F9A52E0B7D100002926F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE8F2E0A6D6E00DF0431 /* Resources */ = {
+		2F50F9B12E0B7D100002926F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE992E0A6D6E00DF0431 /* Resources */ = {
+		2F50F9BB2E0B7D100002926F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -421,28 +421,28 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2FBCCE6F2E0A6D6E00DF0431 /* Sources */ = {
+		2F50F9912E0B7D100002926F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE812E0A6D6E00DF0431 /* Sources */ = {
+		2F50F9A32E0B7D100002926F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE8D2E0A6D6E00DF0431 /* Sources */ = {
+		2F50F9AF2E0B7D100002926F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2FBCCE972E0A6D6E00DF0431 /* Sources */ = {
+		2F50F9B92E0B7D100002926F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -452,20 +452,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2FBCCE942E0A6D6E00DF0431 /* PBXTargetDependency */ = {
+		2F50F9B62E0B7D100002926F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2FBCCE902E0A6D6E00DF0431 /* Do not translate reddit Extension (iOS) */;
-			targetProxy = 2FBCCE932E0A6D6E00DF0431 /* PBXContainerItemProxy */;
+			target = 2F50F9B22E0B7D100002926F /* DoNotTranslateRedPost Extension (iOS) */;
+			targetProxy = 2F50F9B52E0B7D100002926F /* PBXContainerItemProxy */;
 		};
-		2FBCCE9E2E0A6D6E00DF0431 /* PBXTargetDependency */ = {
+		2F50F9C02E0B7D100002926F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2FBCCE9A2E0A6D6E00DF0431 /* Do not translate reddit Extension (macOS) */;
-			targetProxy = 2FBCCE9D2E0A6D6E00DF0431 /* PBXContainerItemProxy */;
+			target = 2F50F9BC2E0B7D100002926F /* DoNotTranslateRedPost Extension (macOS) */;
+			targetProxy = 2F50F9BF2E0B7D100002926F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2FBCCEC22E0A6D6E00DF0431 /* Debug */ = {
+		2F50F9E42E0B7D100002926F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -473,7 +473,7 @@
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "DoNotTranslateRedPost Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -481,13 +481,13 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit.Extension";
-				PRODUCT_NAME = "Do not translate reddit Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost.Extension;
+				PRODUCT_NAME = "DoNotTranslateRedPost Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -496,7 +496,7 @@
 			};
 			name = Debug;
 		};
-		2FBCCEC32E0A6D6E00DF0431 /* Release */ = {
+		2F50F9E52E0B7D100002926F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -504,7 +504,7 @@
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "DoNotTranslateRedPost Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -512,13 +512,13 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit.Extension";
-				PRODUCT_NAME = "Do not translate reddit Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost.Extension;
+				PRODUCT_NAME = "DoNotTranslateRedPost Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -528,7 +528,7 @@
 			};
 			name = Release;
 		};
-		2FBCCEC72E0A6D6E00DF0431 /* Debug */ = {
+		2F50F9E92E0B7D100002926F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -538,8 +538,7 @@
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_CFBundleDisplayName = DoNotTranslateRedPost;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -550,27 +549,23 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit";
-				PRODUCT_NAME = "Do not translate reddit";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost;
+				PRODUCT_NAME = DoNotTranslateRedPost;
 				SDKROOT = iphoneos;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		2FBCCEC82E0A6D6E00DF0431 /* Release */ = {
+		2F50F9EA2E0B7D100002926F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -580,8 +575,7 @@
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_CFBundleDisplayName = DoNotTranslateRedPost;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -592,20 +586,16 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit";
-				PRODUCT_NAME = "Do not translate reddit";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost;
+				PRODUCT_NAME = DoNotTranslateRedPost;
 				SDKROOT = iphoneos;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -613,17 +603,17 @@
 			};
 			name = Release;
 		};
-		2FBCCECC2E0A6D6E00DF0431 /* Debug */ = {
+		2F50F9EE2E0B7D100002926F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/Do not translate reddit.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DoNotTranslateRedPost.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "DoNotTranslateRedPost Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -631,13 +621,13 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit.Extension";
-				PRODUCT_NAME = "Do not translate reddit Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost.Extension;
+				PRODUCT_NAME = "DoNotTranslateRedPost Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -645,17 +635,17 @@
 			};
 			name = Debug;
 		};
-		2FBCCECD2E0A6D6E00DF0431 /* Release */ = {
+		2F50F9EF2E0B7D100002926F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/Do not translate reddit.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DoNotTranslateRedPost.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "DoNotTranslateRedPost Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -663,13 +653,13 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit.Extension";
-				PRODUCT_NAME = "Do not translate reddit Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost.Extension;
+				PRODUCT_NAME = "DoNotTranslateRedPost Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -677,19 +667,18 @@
 			};
 			name = Release;
 		};
-		2FBCCED12E0A6D6E00DF0431 /* Debug */ = {
+		2F50F9F32E0B7D100002926F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "macOS (App)/Do not translate reddit.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DoNotTranslateRedPost.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_CFBundleDisplayName = DoNotTranslateRedPost;
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -697,15 +686,15 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0.2;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit";
-				PRODUCT_NAME = "Do not translate reddit";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost;
+				PRODUCT_NAME = DoNotTranslateRedPost;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -713,19 +702,18 @@
 			};
 			name = Debug;
 		};
-		2FBCCED22E0A6D6E00DF0431 /* Release */ = {
+		2F50F9F42E0B7D100002926F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "macOS (App)/Do not translate reddit.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DoNotTranslateRedPost.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Do not translate reddit";
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_CFBundleDisplayName = DoNotTranslateRedPost;
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -733,15 +721,15 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0.2;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.github.TaYaKi71751.Do-not-translate-reddit";
-				PRODUCT_NAME = "Do not translate reddit";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.TaYaKi71751.DoNotTranslateRedPost;
+				PRODUCT_NAME = DoNotTranslateRedPost;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -749,7 +737,7 @@
 			};
 			name = Release;
 		};
-		2FBCCED52E0A6D6E00DF0431 /* Debug */ = {
+		2F50F9F72E0B7D100002926F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -784,6 +772,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -810,7 +799,7 @@
 			};
 			name = Debug;
 		};
-		2FBCCED62E0A6D6E00DF0431 /* Release */ = {
+		2F50F9F82E0B7D100002926F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -845,6 +834,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 84ML4G2PN8;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -866,52 +856,52 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2FBCCE5A2E0A6D6C00DF0431 /* Build configuration list for PBXProject "Do not translate reddit" */ = {
+		2F50F97C2E0B7D0B0002926F /* Build configuration list for PBXProject "DoNotTranslateRedPost" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FBCCED52E0A6D6E00DF0431 /* Debug */,
-				2FBCCED62E0A6D6E00DF0431 /* Release */,
+				2F50F9F72E0B7D100002926F /* Debug */,
+				2F50F9F82E0B7D100002926F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2FBCCEC12E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit Extension (iOS)" */ = {
+		2F50F9E32E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FBCCEC22E0A6D6E00DF0431 /* Debug */,
-				2FBCCEC32E0A6D6E00DF0431 /* Release */,
+				2F50F9E42E0B7D100002926F /* Debug */,
+				2F50F9E52E0B7D100002926F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2FBCCEC62E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit (iOS)" */ = {
+		2F50F9E82E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FBCCEC72E0A6D6E00DF0431 /* Debug */,
-				2FBCCEC82E0A6D6E00DF0431 /* Release */,
+				2F50F9E92E0B7D100002926F /* Debug */,
+				2F50F9EA2E0B7D100002926F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2FBCCECB2E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit Extension (macOS)" */ = {
+		2F50F9ED2E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FBCCECC2E0A6D6E00DF0431 /* Debug */,
-				2FBCCECD2E0A6D6E00DF0431 /* Release */,
+				2F50F9EE2E0B7D100002926F /* Debug */,
+				2F50F9EF2E0B7D100002926F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2FBCCED02E0A6D6E00DF0431 /* Build configuration list for PBXNativeTarget "Do not translate reddit (macOS)" */ = {
+		2F50F9F22E0B7D100002926F /* Build configuration list for PBXNativeTarget "DoNotTranslateRedPost (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FBCCED12E0A6D6E00DF0431 /* Debug */,
-				2FBCCED22E0A6D6E00DF0431 /* Release */,
+				2F50F9F32E0B7D100002926F /* Debug */,
+				2F50F9F42E0B7D100002926F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2FBCCE572E0A6D6C00DF0431 /* Project object */;
+	rootObject = 2F50F9792E0B7D0B0002926F /* Project object */;
 }
