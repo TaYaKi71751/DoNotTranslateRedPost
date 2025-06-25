@@ -5,6 +5,7 @@ env:
   XCODE_MAC_SCHEME: "DoNotTranslateRedPost (macOS)"
   XCODE_IOS_SCHEME: "DoNotTranslateRedPost (iOS)"
   XCODE_PROJECT: "DoNotTranslateRedPost.xcodeproj"
+  XCODE_APP_NAME: "DoNotTranslateRedPost.app"
 
 jobs:
   build:
@@ -31,7 +32,7 @@ jobs:
           clean build
         cd "build/ios/Build/Products/Release-iphonesimulator/"
         mkdir -p Payload
-        mv "Do not translate reddit.app" Payload/Runner.app
+        mv "${XCODE_APP_NAME}" Payload/Runner.app
         zip -r ../../../../../build/ios.zip "Payload/Runner.app"
         cd ../../../../../
         mv build/ios.zip build/ios.ipa
@@ -46,7 +47,7 @@ jobs:
           CODE_SIGN_ENTITLEMENTS="" \
           clean build
         cd "build/mac/Build/Products/Release/"
-        zip -r ../../../../../build/mac.zip "Do not translate reddit.app"
+        zip -r ../../../../../build/mac.zip "${XCODE_APP_NAME}"
         cd ../../../../../
     # Update manifest
     - run: |
