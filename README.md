@@ -11,6 +11,6 @@
 
 This Safari extension allows users to change the appearance of a specific website.
 
-For help or questions, please contact: **shantian.tw@gmail.com** or submit issue to https://github.com/TaYaKi71751/DoNotTranslateRedPost/issues
+For help or questions, please contact: **shantian.tw@gmail.com** or [submit issue](https://github.com/TaYaKi71751/DoNotTranslateRedPost/issues)
 
 This extension does not include private browsing or unrestricted web access.
